@@ -1,0 +1,25 @@
+body{
+  margin: 0;
+  padding: 5px;
+  font-size: 16px;
+}
+input{
+  font-size: 1.2rem;
+  height: 30px;
+  border-radius: 8px;
+}
+#task{
+  width: 150px;
+}
+#submit{
+  width: 100px;
+  height: 36px;
+  background-color: rgb(96, 146, 255);
+  border: 1px solid rgb(0, 0, 150);
+  color: white;
+}
+#submit:hover{
+  width: 110px;
+  height: 46px;
+  font-size: 1.3rem;
+}
